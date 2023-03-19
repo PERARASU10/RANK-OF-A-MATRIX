@@ -34,6 +34,8 @@ print(rank)
 ```
 
 ## Output:
+![Screenshot 2023-03-19 180611](https://user-images.githubusercontent.com/118348589/226175893-4dadf3b6-7d72-4796-92c9-b2179c527f93.png)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
